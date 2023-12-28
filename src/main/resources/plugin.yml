@@ -1,0 +1,4 @@
+name: Foxmc-items
+version: '${project.version}'
+main: org.hello.foxmcitems.Foxmc_items
+api-version: '1.20'
